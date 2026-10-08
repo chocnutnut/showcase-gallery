@@ -177,3 +177,6 @@ function ProductForm({ editingProduct, onSubmit, onCancel }) {
 }
 
 export default ProductForm;
+
+client/src/components/ProductForm.jsx
+ 
